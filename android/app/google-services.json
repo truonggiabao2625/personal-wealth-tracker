@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661483141271",
+    "project_id": "finvault-8ea7b",
+    "storage_bucket": "finvault-8ea7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661483141271:android:5b2d1e4e5d0fb581f251d2",
+        "android_client_info": {
+          "package_name": "io.github.truonggiabao2625.finvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661483141271-vhr754meas4ahnuguddbr5lsajjgddn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonHx3o9a8EPDerzrQhWhgu82L0m_vVCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661483141271-vhr754meas4ahnuguddbr5lsajjgddn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
